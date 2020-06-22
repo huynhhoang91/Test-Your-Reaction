@@ -8,6 +8,8 @@ This project will measure how long it take for you to click on the shape after i
 What's topic in this project?
 -Making the javascript interact with HTML page
 -variables, array, loop, if/else statements
--
+-function getRandomColor
+-setTimeout()
+-Date(), getTime()
 
 
